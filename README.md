@@ -1,14 +1,18 @@
 
 
 <p align="center">
-<a href="https://packagist.org/packages/laravel/framework">
+<a href="https://www.linkedin.com/in/augustoguerrag">
 <img src="https://img.icons8.com/nolan/64/000000/linkedin.png">
 </a>
 
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.icons8.com/nolan/64/000000/github.png"></a>
-
-<a href="https://travis-ci.org/laravel/framework"><img src="https://img.icons8.com/ios/50/000000/facebook.png">
+<a href="https://github.com/gal05">
+<img src="https://img.icons8.com/nolan/64/000000/github.png">
 </a>
+
+<a href="http://facebook.com/guerra.tecsup">
+<img src="https://img.icons8.com/ios/50/000000/facebook.png">
+</a>
+
 </p>
 
 ## About this api rest
