@@ -10,7 +10,7 @@
 </a>
 
 <a href="http://facebook.com/guerra.tecsup">
-<img src="https://img.icons8.com/ios/50/000000/facebook.png">
+<img src="https://img.icons8.com/nolan/64/000000/facebook-new.png">
 </a>
 </p>
 
